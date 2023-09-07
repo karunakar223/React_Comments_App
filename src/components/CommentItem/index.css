@@ -1,0 +1,102 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+
+.li-con {
+  list-style-type: none;
+  font-family: 'Roboto';
+  margin-left: 160px;
+}
+
+.initial-container {
+  height: 30px;
+  width: 50px;
+  border-radius: 40px;
+  color: #ffffff;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 12px;
+}
+
+.main-container {
+  display: flex;
+}
+.comment-details-container {
+  display: flex;
+}
+
+.name {
+  align-self: center;
+  font-size: 14px;
+  font-weight: 900;
+  margin-right: 8px;
+}
+.time {
+  align-self: center;
+  color: #dee0e3;
+  font-size: 12px;
+}
+.like-container {
+  display: flex;
+  justify-content: space-between;
+}
+.content {
+  font-size: 12px;
+  color: #94a3b8;
+  font-weight: 400;
+}
+
+.btn {
+  color: #7e858e;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: #7e858e;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  margin-right: 12px;
+}
+
+.active {
+  color: #0b69ff;
+}
+
+.button {
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+  border: none;
+}
+.btn-con {
+  display: flex;
+  align-items: center;
+}

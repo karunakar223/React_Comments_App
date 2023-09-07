@@ -1,0 +1,79 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Roboto';
+}
+.main-heading {
+  color: #1e293b;
+  font-size: 42px;
+  font-weight: 900;
+}
+
+.text {
+  height: 35px;
+  width: 530px;
+  margin-bottom: 12px;
+  border: 1px solid #dee0e3;
+  border-radius: 3px;
+  outline: none;
+}
+
+.textarea {
+  width: 530px;
+  border: 1px solid #dee0e3;
+  border-radius: 3px;
+  margin-bottom: 18px;
+  outline: none;
+}
+.comment {
+  align-self: flex-end;
+}
+.description {
+  color: #475569;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.submit {
+  color: #ffffff;
+  height: 38px;
+  width: 120px;
+  background-color: #0284c7;
+  outline: none;
+  cursor: pointer;
+  border-radius: 12px;
+  border: none;
+}
+
+.hr {
+  border: 1px solid #dee0e3;
+  width: 79%;
+}
+
+.count-container {
+  display: flex;
+  width: 1000px;
+}
+.count {
+  height: 25px;
+  width: 25px;
+  background-color: #0284c7;
+  margin-left: 190px;
+  color: #ffffff;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  margin-right: 5px;
+}
+.length {
+  color: #334155;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.ul-list {
+  margin-right: 190px;
+}
